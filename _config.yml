@@ -48,7 +48,7 @@ kramdown:
 disqus_username: nishuilemei
 
 # Duoshuo settings
-duoshuo_username: 你睡了没
+duoshuo_username: saltcoffee
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
