@@ -1,8 +1,8 @@
 # Site settings
-title: guagua
+title: 瓜瓜
 SEOTitle: 瓜瓜的博客
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: schromelon@gmail.com
 description: "写一行代码，是个Bug"
 keyword: ""
 url: ""              # your host, for absolute URL
@@ -48,9 +48,9 @@ kramdown:
 disqus_username: nishuilemei
 
 # Duoshuo settings
-# duoshuo_username: 你睡了没
+duoshuo_username: 你睡了没
 # Share component is depend on Comment so we can NOT use share only.
-# duoshuo_share: false                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
