@@ -3,7 +3,7 @@ title: 瓜瓜
 SEOTitle: 瓜瓜的博客
 header-img: img/home-bg.jpg
 email: schromelon@gmail.com
-description: "写一行代码，是个Bug"
+description: "写一行代码，十个Bug"
 keyword: ""
 url: "saltcoffee.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -67,7 +67,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我听过千百首歌，真是的日子还是……"
+sidebar-about-description: "我听过千百首歌，真实的日子还是……"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
