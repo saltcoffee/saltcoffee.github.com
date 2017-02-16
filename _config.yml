@@ -6,7 +6,7 @@ email: schromelon@gmail.com
 description: "写一行代码，十个Bug"
 keyword: ""
 url: "saltcoffee.github.io"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "saltcoffee.github.io"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
