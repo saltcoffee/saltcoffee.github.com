@@ -53,9 +53,6 @@ duoshuo_username: saltcoffee
 duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
-# Tencent Analytics
-ta_track_id: 60832734
-
 # Analytics settings
 # Baidu Analytics 
 # ba_track_id: [your track id]
